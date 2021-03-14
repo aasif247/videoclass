@@ -14,7 +14,7 @@ console.log(YourName);
 var peer = new Peer(undefined,{   //we undefine this because peer server create it's own user it
   //path: '/peerjs',
 	host: '/',
-	port: '3001'
+	port: '443'
 });
 
 let myVideoStream ;
